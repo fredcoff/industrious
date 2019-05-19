@@ -1,26 +1,28 @@
-HTML templates, the one we used was designed by [Templated.co](https://templated.co/).
+[HTML templates](https://github.com/ibrar-dev/templated-industrious), the one we used was designed by [Templated.co](https://templated.co/).
 
-###In a Nutshell..
+
+
+### In a Nutshell..
 
 Let’s quickly recap the main steps we went over:
 
 We created the react boilerplate by running: create-react-app react-website && cd react-website
 
-####Put index.html, assets and images folders from the template into react-website/public
+#### Put index.html, assets and images folders from the template into react-website/public
 
-####Inserted the root container into index.html
+#### Inserted the root container into index.html
 
-####Started creating components
+#### Started creating components
 
-####Changed class keyword to className
+#### Changed class keyword to className
 
-####Renamed keywords such that the second word is capitalized
+#### Renamed keywords such that the second word is capitalized
 
-####Closed all open HTML tags (In our template we didn’t have open tags)
+#### Closed all open HTML tags (In our template we didn’t have open tags)
 
-####Included all components in App component. If components were containers, we used props.children to pass props through them
+#### Included all components in App component. If components were containers, we used props.children to pass props through them
 
-####Used state in order to customize our components
+#### Used state in order to customize our components
 
 
 
